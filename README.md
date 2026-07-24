@@ -83,7 +83,7 @@ pip install PyQt5 pygame requests
 **Utkarsh** — BSc Data Science & Economics, FLAME University  
 Currently building towards a career in risk analysis and fintech.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/utkarsh-sehajpal/))
 
 ---
 
